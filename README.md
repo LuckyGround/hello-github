@@ -1,2 +1,3 @@
 # hello-github
-tutorial repository
+
+Hello i'm Lucky
